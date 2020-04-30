@@ -1,0 +1,587 @@
+google.com, pub-4307535858110282, DIRECT, f08c47fec0942fa0
+
+gumgum.com,13023,DIRECT,ffdef49475d318a9
+appnexus.com,1001,reseller,f5ab79cb980f11d1
+appnexus.com,1942,reseller,f5ab79cb980f11d1
+appnexus.com,2758,reseller,f5ab79cb980f11d1
+appnexus.com,3135,reseller,f5ab79cb980f11d1
+bidtellect.com,1407,reseller,1c34aa2d85d45e93
+contextweb.com,558355,reseller,
+openx.com,537120563,reseller,6a698e2ec38604c6
+openx.com,537149485,reseller,6a698e2ec38604c6
+google.com,pub-9557089510405422,reseller,f08c47fec0942fa0
+google.com,pub-3848273848634341,reseller,f08c47fec0942fa0
+rhythmone.com,78519861,reseller,
+appnexus.com,7597,reseller,f5ab79cb980f11d1
+33across.com,0013300001r0t9mAAA,reseller,
+appnexus.com,10239,reseller,f5ab79cb980f11d1
+rubiconproject.com,16414,reseller,0bfd66d529a55807
+pubmatic.com,156423,reseller,5d62403b186f2ace
+openx.com,539392223,reseller,6a698e2ec38604c6
+rhythmone.com,2439829435,reseller,a670c89d4a324e47
+emxdgt.com,326,reseller,1e1d41537f7cad7f
+pubmatic.com,157897,reseller,5d62403b186f2ace
+synacor.com,82151,reseller,e108f11b2cdf7d5b
+coxmt.com,2000067995202,reseller,
+appnexus.com,9316,reseller,f5ab79cb980f11d1
+pubmatic.com,156344,reseller,5d62403b186f2ace
+rubiconproject.com,13344,reseller,0bfd66d529a55807
+EMXDGT.com,1284,reseller,1e1d41537f7cad7f
+appnexus.com,1356,reseller,f5ab79cb980f11d1
+
+ad-stir.com, 7938, RESELLER
+ad-stir.com, 5033, RESELLER
+pubmatic.com, 156493, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156704 , RESELLER, 5d62403b186f2ace
+google.com, pub-5897179876377792, RESELLER, f08c47fec0942fa0
+
+outbrain.com, 001f29df74a32c7a2a9fa08b639d536c08, DIRECT
+outbrain.com, 001f29df74a32c7a2a9fa08b639d536c08, RESELLER
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka "Telaria"
+teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
+advertising.com, 26154, RESELLER # Premium video demand
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+
+genieesspv.jp, 5590, RESELLER
+genieesspv.jp, 5593, RESELLER
+genieesspv.jp, 5595, RESELLER
+genieesspv.jp, 5596, RESELLER
+genieesspv.jp, 5597, RESELLER
+genieesspv.jp, 5598, RESELLER
+genieesspv.jp, 5599, RESELLER
+genieesspv.jp, 5600, RESELLER
+genieesspv.jp, 5601, RESELLER
+genieesspv.jp, 5602, RESELLER
+genieesspv.jp, 5603, RESELLER
+genieesspv.jp, 5604, RESELLER
+genieesspv.jp, 5605, RESELLER
+genieesspv.jp, 5606, RESELLER
+genieesspv.jp, 5607, RESELLER
+genieesspv.jp, 5608, RESELLER
+genieesspv.jp, 5609, RESELLER
+genieesspv.jp, 5610, RESELLER
+genieesspv.jp, 5611, RESELLER
+genieesspv.jp, 5612, RESELLER
+genieesspv.jp, 5613, RESELLER
+genieesspv.jp, 5614, RESELLER
+genieesspv.jp, 5615, RESELLER
+genieesspv.jp, 5616, RESELLER
+genieesspv.jp, 5617, RESELLER
+genieesspv.jp, 5618, RESELLER
+genieesspv.jp, 5619, RESELLER
+genieesspv.jp, 5620, RESELLER
+genieesspv.jp, 5621, RESELLER
+genieesspv.jp, 5622, RESELLER
+genieesspv.jp, 5623, RESELLER
+genieesspv.jp, 5624, RESELLER
+genieesspv.jp, 5625, RESELLER
+genieesspv.jp, 5626, RESELLER
+genieesspv.jp, 5627, RESELLER
+genieesspv.jp, 5628, RESELLER
+genieesspv.jp, 5629, RESELLER
+genieesspv.jp, 5630, RESELLER
+genieesspv.jp, 5631, RESELLER
+genieesspv.jp, 5646, RESELLER
+genieesspv.jp, 5648, RESELLER
+genieesspv.jp, 5649, RESELLER
+genieesspv.jp, 5650, RESELLER
+genieesspv.jp, 5651, RESELLER
+genieesspv.jp, 5652, RESELLER
+genieesspv.jp, 5653, RESELLER
+genieesspv.jp, 5654, RESELLER
+genieesspv.jp, 5655, RESELLER
+genieesspv.jp, 5656, RESELLER
+genieesspv.jp, 5657, RESELLER
+genieesspv.jp, 5658, RESELLER
+genieesspv.jp, 5659, RESELLER
+genieesspv.jp, 5660, RESELLER
+genieesspv.jp, 5661, RESELLER
+genieesspv.jp, 5662, RESELLER
+genieesspv.jp, 5663, RESELLER
+genieesspv.jp, 5664, RESELLER
+genieesspv.jp, 5665, RESELLER
+genieesspv.jp, 5666, RESELLER
+genieesspv.jp, 5667, RESELLER
+genieesspv.jp, 5691, RESELLER
+genieesspv.jp, 5910, RESELLER
+genieesspv.jp, 6222, RESELLER
+genieesspv.jp, 6353, RESELLER
+genieesspv.jp, 6357, RESELLER
+genieesspv.jp, 6376, RESELLER
+genieesspv.jp, 6440, RESELLER
+genieesspv.jp, 6534, RESELLER
+genieesspv.jp, 6535, RESELLER
+genieesspv.jp, 6624, RESELLER
+genieesspv.jp, 6680, RESELLER
+genieesspv.jp, 6681, RESELLER
+genieesspv.jp, 6682, RESELLER
+genieesspv.jp, 6683, RESELLER
+genieesspv.jp, 6684, RESELLER
+genieesspv.jp, 6761, RESELLER
+genieesspv.jp, 6800, RESELLER
+genieesspv.jp, 6879, RESELLER
+genieesspv.jp, 6982, RESELLER
+genieesspv.jp, 7003, RESELLER
+genieesspv.jp, 7005, RESELLER
+genieesspv.jp, 7040, RESELLER
+genieesspv.jp, 7041, RESELLER
+genieesspv.jp, 7195, RESELLER
+genieesspv.jp, 7213, RESELLER
+genieesspv.jp, 7276, RESELLER
+genieesspv.jp, 7317, RESELLER
+genieesspv.jp, 7881, RESELLER
+genieesspv.jp, 8004, RESELLER
+genieesspv.jp, 8182, RESELLER
+genieesspv.jp, 8377, RESELLER
+genieesspv.jp, 8863, RESELLER
+genieesspv.jp, 8924, RESELLER
+genieesspv.jp, 9245, RESELLER
+genieesspv.jp, 9433, RESELLER
+genieesspv.jp, 9525, RESELLER
+genieesspv.jp, 9613, RESELLER
+genieesspv.jp, 9655, RESELLER
+genieesspv.jp, 9879, RESELLER
+genieesspv.jp, 9903, RESELLER
+genieesspv.jp, 9906, RESELLER
+genieesspv.jp, 9907, RESELLER
+genieesspv.jp, 9908, RESELLER
+genieesspv.jp, 9909, RESELLER
+genieesspv.jp, 9910, RESELLER
+genieesspv.jp, 9943, RESELLER
+genieesspv.jp, 10088, RESELLER
+genieesspv.jp, 10113, RESELLER
+genieesspv.jp, 10135, RESELLER
+genieesspv.jp, 10147, RESELLER
+genieesspv.jp, 10284, RESELLER
+genieesspv.jp, 10285, RESELLER
+genieesspv.jp, 10410, RESELLER
+genieesspv.jp, 10603, RESELLER
+genieesspv.jp, 10650, RESELLER
+genieesspv.jp, 10684, RESELLER
+genieesspv.jp, 10685, RESELLER
+genieesspv.jp, 10702, RESELLER
+genieesspv.jp, 10758, RESELLER
+genieesspv.jp, 10852, RESELLER
+genieesspv.jp, 10971, RESELLER
+genieesspv.jp, 11030, RESELLER
+genieesspv.jp, 11227, RESELLER
+genieesspv.jp, 11342, RESELLER
+genieesspv.jp, 11364, RESELLER
+genieesspv.jp, 11479, RESELLER
+genieesspv.jp, 11487, RESELLER
+genieesspv.jp, 11934, RESELLER
+genieesspv.jp, 11966, RESELLER
+genieesspv.jp, 12247, RESELLER
+genieesspv.jp, 12526, RESELLER
+genieesspv.jp, 12825, RESELLER
+genieesspv.jp, 12871, RESELLER
+genieesspv.jp, 12884, RESELLER
+genieesspv.jp, 13021, RESELLER
+genieesspv.jp, 13063, RESELLER
+genieesspv.jp, 13064, RESELLER
+genieesspv.jp, 13103, RESELLER
+genieesspv.jp, 13520, RESELLER
+genieesspv.jp, 13522, RESELLER
+genieesspv.jp, 14088, RESELLER
+genieesspv.jp, 14138, RESELLER
+genieesspv.jp, 14341, RESELLER
+genieesspv.jp, 14437, RESELLER
+genieesspv.jp, 14538, RESELLER
+genieesspv.jp, 14571, RESELLER
+genieesspv.jp, 14596, RESELLER
+genieesspv.jp, 14689, RESELLER
+genieesspv.jp, 14714, RESELLER
+genieesspv.jp, 14864, RESELLER
+genieesspv.jp, 14885, RESELLER
+genieesspv.jp, 14979, RESELLER
+genieesspv.jp, 14980, RESELLER
+genieesspv.jp, 14982, RESELLER
+genieesspv.jp, 14998, RESELLER
+genieesspv.jp, 15073, RESELLER
+genieesspv.jp, 15312, RESELLER
+genieesspv.jp, 15331, RESELLER
+genieesspv.jp, 15388, RESELLER
+genieesspv.jp, 15421, RESELLER
+genieesspv.jp, 15454, RESELLER
+genieesspv.jp, 15484, RESELLER
+genieesspv.jp, 15640, RESELLER
+genieesspv.jp, 15761, RESELLER
+genieesspv.jp, 15812, RESELLER
+genieesspv.jp, 15828, RESELLER
+genieesspv.jp, 15877, RESELLER
+genieesspv.jp, 15900, RESELLER
+genieesspv.jp, 16017, RESELLER
+genieesspv.jp, 16018, RESELLER
+genieesspv.jp, 16244, RESELLER
+genieesspv.jp, 16462, RESELLER
+genieesspv.jp, 16563, RESELLER
+genieesspv.jp, 16681, RESELLER
+genieesspv.jp, 16866, RESELLER
+genieesspv.jp, 16867, RESELLER
+genieesspv.jp, 16868, RESELLER
+genieesspv.jp, 17001, RESELLER
+genieesspv.jp, 17307, RESELLER
+genieesspv.jp, 17310, RESELLER
+genieesspv.jp, 17467, RESELLER
+genieesspv.jp, 17648, RESELLER
+genieesspv.jp, 17649, RESELLER
+genieesspv.jp, 17650, RESELLER
+genieesspv.jp, 17658, RESELLER
+genieesspv.jp, 17784, RESELLER
+genieesspv.jp, 18220, RESELLER
+genieesspv.jp, 18221, RESELLER
+genieesspv.jp, 18261, RESELLER
+genieesspv.jp, 18604, RESELLER
+genieesspv.jp, 18656, RESELLER
+genieesspv.jp, 18660, RESELLER
+genieesspv.jp, 18661, RESELLER
+genieesspv.jp, 18760, RESELLER
+genieesspv.jp, 19030, RESELLER
+genieesspv.jp, 19031, RESELLER
+genieesspv.jp, 19048, RESELLER
+genieesspv.jp, 19200, RESELLER
+genieesspv.jp, 19201, RESELLER
+genieesspv.jp, 19222, RESELLER
+genieesspv.jp, 19296, RESELLER
+genieesspv.jp, 19349, RESELLER
+genieesspv.jp, 19419, RESELLER
+genieesspv.jp, 19420, RESELLER
+genieesspv.jp, 19421, RESELLER
+genieesspv.jp, 19520, RESELLER
+genieesspv.jp, 19528, RESELLER
+genieesspv.jp, 19569, RESELLER
+genieesspv.jp, 19641, RESELLER
+genieesspv.jp, 19665, RESELLER
+genieesspv.jp, 19860, RESELLER
+genieesspv.jp, 19876, RESELLER
+genieesspv.jp, 19980, RESELLER
+genieesspv.jp, 20131, RESELLER
+genieesspv.jp, 20231, RESELLER
+genieesspv.jp, 20237, RESELLER
+genieesspv.jp, 20409, RESELLER
+genieesspv.jp, 20413, RESELLER
+genieesspv.jp, 20420, RESELLER
+genieesspv.jp, 20439, RESELLER
+genieesspv.jp, 20477, RESELLER
+genieesspv.jp, 20555, RESELLER
+genieesspv.jp, 20563, RESELLER
+genieesspv.jp, 20623, RESELLER
+genieesspv.jp, 20762, RESELLER
+genieesspv.jp, 20810, RESELLER
+genieesspv.jp, 20811, RESELLER
+genieesspv.jp, 21138, RESELLER
+genieesspv.jp, 21139, RESELLER
+genieesspv.jp, 21219, RESELLER
+genieesspv.jp, 21273, RESELLER
+genieesspv.jp, 21614, RESELLER
+genieesspv.jp, 21666, RESELLER
+genieesspv.jp, 21667, RESELLER
+genieesspv.jp, 21837, RESELLER
+genieesspv.jp, 22056, RESELLER
+genieesspv.jp, 22353, RESELLER
+genieesspv.jp, 22356, RESELLER
+genieesspv.jp, 22357, RESELLER
+genieesspv.jp, 22358, RESELLER
+genieesspv.jp, 22438, RESELLER
+genieesspv.jp, 22517, RESELLER
+genieesspv.jp, 22518, RESELLER
+genieesspv.jp, 22612, RESELLER
+genieesspv.jp, 22885, RESELLER
+genieesspv.jp, 23118, RESELLER
+genieesspv.jp, 23119, RESELLER
+genieesspv.jp, 23120, RESELLER
+genieesspv.jp, 23188, RESELLER
+genieesspv.jp, 23189, RESELLER
+genieesspv.jp, 23255, RESELLER
+genieesspv.jp, 23257, RESELLER
+genieesspv.jp, 23272, RESELLER
+genieesspv.jp, 23352, RESELLER
+genieesspv.jp, 23353, RESELLER
+genieesspv.jp, 23409, RESELLER
+genieesspv.jp, 23410, RESELLER
+genieesspv.jp, 23608, RESELLER
+genieesspv.jp, 23633, RESELLER
+genieesspv.jp, 23634, RESELLER
+genieesspv.jp, 23635, RESELLER
+genieesspv.jp, 23693, RESELLER
+genieesspv.jp, 23694, RESELLER
+genieesspv.jp, 23695, RESELLER
+genieesspv.jp, 23696, RESELLER
+genieesspv.jp, 23697, RESELLER
+genieesspv.jp, 23911, RESELLER
+genieesspv.jp, 23912, RESELLER
+genieesspv.jp, 23913, RESELLER
+genieesspv.jp, 23914, RESELLER
+genieesspv.jp, 24101, RESELLER
+genieesspv.jp, 24102, RESELLER
+genieesspv.jp, 24104, RESELLER
+genieesspv.jp, 24105, RESELLER
+genieesspv.jp, 24245, RESELLER
+genieesspv.jp, 24298, RESELLER
+genieesspv.jp, 24299, RESELLER
+genieesspv.jp, 24452, RESELLER
+genieesspv.jp, 24453, RESELLER
+genieesspv.jp, 24454, RESELLER
+genieesspv.jp, 24774, RESELLER
+genieesspv.jp, 24902, RESELLER
+genieesspv.jp, 24903, RESELLER
+genieesspv.jp, 24952, RESELLER
+genieesspv.jp, 25088, RESELLER
+genieesspv.jp, 25196, RESELLER
+genieesspv.jp, 25197, RESELLER
+genieesspv.jp, 25428, RESELLER
+genieesspv.jp, 25523, RESELLER
+genieesspv.jp, 25525, RESELLER
+genieesspv.jp, 25526, RESELLER
+genieesspv.jp, 25527, RESELLER
+genieesspv.jp, 25574, RESELLER
+genieesspv.jp, 25657, RESELLER
+genieesspv.jp, 25721, RESELLER
+genieesspv.jp, 25722, RESELLER
+genieesspv.jp, 25723, RESELLER
+genieesspv.jp, 26011, RESELLER
+genieesspv.jp, 26012, RESELLER
+genieesspv.jp, 26014, RESELLER
+genieesspv.jp, 26111, RESELLER
+genieesspv.jp, 26112, RESELLER
+genieesspv.jp, 26442, RESELLER
+genieesspv.jp, 26551, RESELLER
+genieesspv.jp, 26552, RESELLER
+genieesspv.jp, 26554, RESELLER
+genieesspv.jp, 26655, RESELLER
+genieesspv.jp, 26656, RESELLER
+genieesspv.jp, 26742, RESELLER
+genieesspv.jp, 26743, RESELLER
+genieesspv.jp, 26780, RESELLER
+genieesspv.jp, 26781, RESELLER
+genieesspv.jp, 26890, RESELLER
+genieesspv.jp, 27125, RESELLER
+genieesspv.jp, 27126, RESELLER
+genieesspv.jp, 27160, RESELLER
+genieesspv.jp, 27225, RESELLER
+genieesspv.jp, 27254, RESELLER
+genieesspv.jp, 27339, RESELLER
+genieesspv.jp, 27340, RESELLER
+genieesspv.jp, 27363, RESELLER
+genieesspv.jp, 27384, RESELLER
+genieesspv.jp, 27410, RESELLER
+genieesspv.jp, 27481, RESELLER
+genieesspv.jp, 27558, RESELLER
+genieesspv.jp, 27559, RESELLER
+genieesspv.jp, 27618, RESELLER
+genieesspv.jp, 27619, RESELLER
+genieesspv.jp, 27652, RESELLER
+genieesspv.jp, 27653, RESELLER
+genieesspv.jp, 27654, RESELLER
+genieesspv.jp, 27686, RESELLER
+genieesspv.jp, 27845, RESELLER
+genieesspv.jp, 27936, RESELLER
+genieesspv.jp, 28116, RESELLER
+genieesspv.jp, 28453, RESELLER
+genieesspv.jp, 28520, RESELLER
+genieesspv.jp, 28686, RESELLER
+genieesspv.jp, 28723, RESELLER
+genieesspv.jp, 28887, RESELLER
+genieesspv.jp, 28927, RESELLER
+genieesspv.jp, 29138, RESELLER
+genieesspv.jp, 29188, RESELLER
+genieesspv.jp, 29197, RESELLER
+genieesspv.jp, 29227, RESELLER
+genieesspv.jp, 29228, RESELLER
+genieesspv.jp, 29444, RESELLER
+genieesspv.jp, 29628, RESELLER
+genieesspv.jp, 29790, RESELLER
+genieesspv.jp, 29867, RESELLER
+genieesspv.jp, 30024, RESELLER
+genieesspv.jp, 30179, RESELLER
+genieesspv.jp, 30244, RESELLER
+genieesspv.jp, 30253, RESELLER
+genieesspv.jp, 30390, RESELLER
+genieesspv.jp, 30450, RESELLER
+genieesspv.jp, 30519, RESELLER
+genieesspv.jp, 30567, RESELLER
+genieesspv.jp, 30570, RESELLER
+genieesspv.jp, 30601, RESELLER
+genieesspv.jp, 30604, RESELLER
+genieesspv.jp, 30645, RESELLER
+genieesspv.jp, 30646, RESELLER
+genieesspv.jp, 30716, RESELLER
+genieesspv.jp, 30737, RESELLER
+genieesspv.jp, 30757, RESELLER
+genieesspv.jp, 30762, RESELLER
+genieesspv.jp, 30836, RESELLER
+genieesspv.jp, 30837, RESELLER
+genieesspv.jp, 30853, RESELLER
+genieesspv.jp, 30928, RESELLER
+genieesspv.jp, 30983, RESELLER
+genieesspv.jp, 30984, RESELLER
+genieesspv.jp, 30985, RESELLER
+genieesspv.jp, 30994, RESELLER
+genieesspv.jp, 30996, RESELLER
+genieesspv.jp, 31001, RESELLER
+genieesspv.jp, 31072, RESELLER
+genieesspv.jp, 31110, RESELLER
+genieesspv.jp, 31219, RESELLER
+genieesspv.jp, 31252, RESELLER
+genieesspv.jp, 31269, RESELLER
+genieesspv.jp, 31270, RESELLER
+genieesspv.jp, 31289, RESELLER
+genieesspv.jp, 31350, RESELLER
+genieesspv.jp, 31370, RESELLER
+genieesspv.jp, 31373, RESELLER
+genieesspv.jp, 31382, RESELLER
+genieesspv.jp, 31384, RESELLER
+genieesspv.jp, 31410, RESELLER
+genieesspv.jp, 31415, RESELLER
+genieesspv.jp, 31421, RESELLER
+genieesspv.jp, 31470, RESELLER
+genieesspv.jp, 31471, RESELLER
+genieesspv.jp, 31472, RESELLER
+genieesspv.jp, 31483, RESELLER
+genieesspv.jp, 31506, RESELLER
+genieesspv.jp, 31538, RESELLER
+genieesspv.jp, 31555, RESELLER
+genieesspv.jp, 31584, RESELLER
+genieesspv.jp, 31585, RESELLER
+genieesspv.jp, 31628, RESELLER
+genieesspv.jp, 31634, RESELLER
+genieesspv.jp, 31637, RESELLER
+genieesspv.jp, 31661, RESELLER
+genieesspv.jp, 31710, RESELLER
+genieesspv.jp, 31748, RESELLER
+genieesspv.jp, 31783, RESELLER
+genieesspv.jp, 31842, RESELLER
+genieesspv.jp, 31843, RESELLER
+genieesspv.jp, 31844, RESELLER
+genieesspv.jp, 31845, RESELLER
+genieesspv.jp, 31858, RESELLER
+genieesspv.jp, 31873, RESELLER
+genieesspv.jp, 31882, RESELLER
+genieesspv.jp, 31895, RESELLER
+genieesspv.jp, 32008, RESELLER
+genieesspv.jp, 32011, RESELLER
+genieesspv.jp, 32050, RESELLER
+genieesspv.jp, 32065, RESELLER
+genieesspv.jp, 32093, RESELLER
+genieesspv.jp, 32103, RESELLER
+genieesspv.jp, 32104, RESELLER
+genieesspv.jp, 32128, RESELLER
+genieesspv.jp, 32143, RESELLER
+genieesspv.jp, 32152, RESELLER
+genieesspv.jp, 32205, RESELLER
+genieesspv.jp, 32236, RESELLER
+genieesspv.jp, 32237, RESELLER
+genieesspv.jp, 32245, RESELLER
+genieesspv.jp, 32247, RESELLER
+genieesspv.jp, 32248, RESELLER
+genieesspv.jp, 32327, RESELLER
+genieesspv.jp, 32331, RESELLER
+genieesspv.jp, 32370, RESELLER
+genieesspv.jp, 32388, RESELLER
+genieesspv.jp, 32399, RESELLER
+genieesspv.jp, 32441, RESELLER
+genieesspv.jp, 32442, RESELLER
+genieesspv.jp, 32498, RESELLER
+genieesspv.jp, 32530, RESELLER
+genieesspv.jp, 32532, RESELLER
+genieesspv.jp, 32553, RESELLER
+genieesspv.jp, 32562, RESELLER
+genieesspv.jp, 32573, RESELLER
+genieesspv.jp, 32574, RESELLER
+genieesspv.jp, 32616, RESELLER
+genieesspv.jp, 32621, RESELLER
+genieesspv.jp, 32631, RESELLER
+genieesspv.jp, 32632, RESELLER
+genieesspv.jp, 32635, RESELLER
+genieesspv.jp, 32639, RESELLER
+genieesspv.jp, 32695, RESELLER
+genieesspv.jp, 32762, RESELLER
+genieesspv.jp, 32789, RESELLER
+genieesspv.jp, 32814, RESELLER
+genieesspv.jp, 32818, RESELLER
+genieesspv.jp, 32822, RESELLER
+genieesspv.jp, 32824, RESELLER
+genieesspv.jp, 32828, RESELLER
+genieesspv.jp, 32829, RESELLER
+genieesspv.jp, 32853, RESELLER
+genieesspv.jp, 32864, RESELLER
+genieesspv.jp, 32869, RESELLER
+genieesspv.jp, 32887, RESELLER
+genieesspv.jp, 32901, RESELLER
+genieesspv.jp, 32919, RESELLER
+genieesspv.jp, 32937, RESELLER
+genieesspv.jp, 32938, RESELLER
+genieesspv.jp, 32942, RESELLER
+genieesspv.jp, 32954, RESELLER
+genieesspv.jp, 32986, RESELLER
+genieesspv.jp, 32994, RESELLER
+genieesspv.jp, 33010, RESELLER
+genieesspv.jp, 33019, RESELLER
+genieesspv.jp, 33055, RESELLER
+genieesspv.jp, 33063, RESELLER
+genieesspv.jp, 33069, RESELLER
+genieesspv.jp, 32853, RESELLER
+genieesspv.jp, 32864, RESELLER
+genieesspv.jp, 32869, RESELLER
+genieesspv.jp, 32887, RESELLER
+genieesspv.jp, 32901, RESELLER
+genieesspv.jp, 32919, RESELLER
+genieesspv.jp, 32937, RESELLER
+genieesspv.jp, 32938, RESELLER
+genieesspv.jp, 32942, RESELLER
+genieesspv.jp, 32954, RESELLER
+genieesspv.jp, 32986, RESELLER
+genieesspv.jp, 32994, RESELLER
+genieesspv.jp, 33010, RESELLER
+genieesspv.jp, 33019, RESELLER
+genieesspv.jp, 33055, RESELLER
+genieesspv.jp, 33063, RESELLER
+genieesspv.jp, 33069, RESELLER
+
+#diDNA ads dot txt 3 27 20
+didna.io, 494n1p165, DIRECT
+#diDNA adx
+google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0
+#diDNA adsense
+google.com, pub-2829411399762487, DIRECT, f08c47fec0942fa0
+#diDNA appnexus
+appnexus.com, 8219, DIRECT, f5ab79cb980f11d1
+#diDNA indexexchange
+indexexchange.com, 186905, DIRECT, 50b1c356f2c5c8fc
+#diDNA openx
+openx.com, 540254809, RESELLER, 6a698e2ec38604c6
+openx.com, 540717738, DIRECT, 6a698e2ec38604c6
+#diDNA rubicon
+rubiconproject.com, 20100, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 20102, DIRECT, 0bfd66d529a55807
+#diDNA rtk/rubicon
+rtk.io, 891, DIRECT
+appnexus.com, 2530, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 40790, RESELLER, 03113cd04947736d
+gumgum.com, 13504, RESELLER, ffdef49475d318a9
+openx.com, 537127577, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 79136, RESELLER, 5d62403b186f2ace
+rhythmone.com, 1114124056, RESELLER, a670c89d4a324e47
+rubiconproject.com, 17790, RESELLER, 0bfd66d529a55807
+#contact diDNA
+contact=ops@diDNA.io
+contact=http://diDNA.io/contact/
+#hindsight sovrn
+sovrn.com, 273777, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273777, DIRECT, fafdf38b16bf6b2b
+lijit.com, 273777-eb, DIRECT, fafdf38b16bf6b2b
+#hindsight pubmatic
+pubmatic.com, 158734, RESELLER, 5d62403b186f2ace
+#hindsight index
+indexexchange.com, 191060, RESELLER, 50b1c356f2c5c8fc
+
+#VideoAD
+relaido.jp, 100002, DIRECT
+uliza.jp, 100002, DIRECT
+
+#Nordot GAM
+google.com, pub-3565385483761681, DIRECT, f08c47fec0942fa0
